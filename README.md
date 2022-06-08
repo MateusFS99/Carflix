@@ -1,8 +1,10 @@
 <h1 align="center">📽️ Carflix - Netflix Clone 📽️</h1>
-<img src="images/logo.png" alt="logo">
-<img src="images/logo.svg" alt="logo">
+<div align="center" style="margin: 60px 0;">
+  <img src="images/logo.png">
+  <img src="images/logo.svg" width="168px" height="68px">
+</div>
 
-Netflix clone only with series and movies aimed for gear heads.
+<p align="center">Netflix clone only with series and movies aimed for gear heads.</p>
 
 ## Technologies 💻
 
